@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\bin\Debug\netcoreapp3.1\Philosophers.exe
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\bin\Debug\netcoreapp3.1\Philosophers.deps.json
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\bin\Debug\netcoreapp3.1\Philosophers.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\bin\Debug\netcoreapp3.1\Philosophers.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\bin\Debug\netcoreapp3.1\Philosophers.dll
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\bin\Debug\netcoreapp3.1\Philosophers.pdb
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\obj\Debug\netcoreapp3.1\Philosophers.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\obj\Debug\netcoreapp3.1\Philosophers.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\obj\Debug\netcoreapp3.1\Philosophers.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\obj\Debug\netcoreapp3.1\Philosophers.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\obj\Debug\netcoreapp3.1\Philosophers.dll
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\obj\Debug\netcoreapp3.1\Philosophers.pdb
+C:\Users\PhilipJensen\source\repos\Philosophers\Philosophers\obj\Debug\netcoreapp3.1\Philosophers.genruntimeconfig.cache
